@@ -22,6 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vermapria&show_icons=true&locale=en&layout=compact" alt="vermapria" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vermapria&show_icons=true&locale=en" alt="vermapria" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vermapria&" alt="vermapria" /></p>
